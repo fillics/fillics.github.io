@@ -3,22 +3,22 @@ layout: article
 title: Telecommunication Web App
 categories: projects
 modified: 2016-06-01T16:28:11-04:00
-tags: [instrument control, pyqt]
 image:
-  header: 2016-12-01-tormenta.png
-  teaser: 2016-12-01-tormenta.gif
+  header: telcowebapp.png
+  teaser: telcowebapp.png
   feature: 2016-12-01-tormenta.png
 ---
+<br />
 
 2021/22 Java Persistence API project - Data Bases 2 - Politecnico di Milano (Italy)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 The aim of this JPA project was the creation of a telco website, where registered employees can create packages to sell to customers, with different optional products and services included. 
 <br />
 The website was connected to a database managed with MySQL. For the front end part, we used HTML and CSS, the whole back end part is written in Java.
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Employee
 ## Registration Phase
