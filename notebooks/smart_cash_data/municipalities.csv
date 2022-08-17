@@ -1,0 +1,291 @@
+Nr,Code,Municipality,County,Population,Total area (km²),Land area (km²),Inland water area (km²),Seawater area (km²),Density (people/km²)
+1,1440,Ale Municipality,Västra Götaland County,27947,331.55,316.51,15.04,0,88.3
+2,1489,Alingsås Municipality,Västra Götaland County,38553,551.17,472.03,79.14,0,81.67
+3,764,Alvesta Municipality,Kronoberg County,19219,1074.26,974.19,100.07,0,19.73
+4,604,Aneby Municipality,Jönköping County,6360,553.89,517.76,36.13,0,12.28
+5,1984,Arboga Municipality,Västmanland County,13437,419.37,325.43,6,0,41.29
+6,2506,Arjeplog Municipality,Norrbotten County,2996,14494.09,12556.77,1937.32,0,0.24
+7,2505,Arvidsjaur Municipality,Norrbotten County,6454,6126.32,5655.97,470.35,0,1.14
+8,1784,Arvika Municipality,Värmland County,25835,1956.13,1649.06,307.07,0,15.67
+9,1882,Askersund Municipality,Örebro County,10993,1019.74,815.99,60.88,0,13.47
+10,2084,Avesta Municipality,Dalarna County,21549,669.08,613.25,55.83,0,35.14
+11,1460,Bengtsfors Municipality,Västra Götaland County,9532,1059.19,882.93,176.26,0,10.8
+12,2326,Berg Municipality,Jämtland County,7180,6145.45,5711.34,434.11,0,1.26
+13,2403,Bjurholm Municipality,Västerbotten County,2442,1363.77,1306.75,57.02,0,1.87
+14,1260,Bjuv Municipality,Skåne County,14813,115.75,115.28,0.47,0,128.5
+15,2582,Boden Municipality,Norrbotten County,27762,4285.13,4007.86,277.27,0,6.93
+16,1443,Bollebygd Municipality,Västra Götaland County,8569,282.39,263.19,19.2,0,32.56
+17,2183,Bollnäs Municipality,Gävleborg County,26130,1976.7,1814.35,162.35,0,14.4
+18,885,Borgholm Municipality,Kalmar County,10634,3654.83,678.65,3.46,2972.72,15.67
+19,2081,Borlänge Municipality,Dalarna County,49825,635.81,583.87,51.94,0,85.34
+20,1490,Borås Municipality,Västra Götaland County,105748,967.54,909.9,57.64,0,116.22
+21,127,Botkyrka Municipality,Stockholm County,87386,222.32,194.17,10.06,12.75,450.05
+22,560,Boxholm Municipality,Östergötland County,5256,603.87,525.77,78.1,0,10
+23,1272,Bromölla Municipality,Skåne County,12331,197.14,162.5,22.77,11.87,75.88
+24,2305,Bräcke Municipality,Jämtland County,6630,3783.7,3408.2,375.5,0,1.95
+25,1231,Burlöv Municipality,Skåne County,17158,19.2,18.9,0.12,0.18,907.83
+26,1278,Båstad Municipality,Skåne County,14245,881.9,209.79,0.61,671.5,67.9
+27,1438,Dals-Ed Municipality,Västra Götaland County,4758,825.43,724.34,101.09,0,6.57
+28,162,Danderyd Municipality,Stockholm County,32074,32.67,26.4,0.15,6.12,1214.92
+29,1862,Degerfors Municipality,Örebro County,9490,433.68,383.98,49.7,0,24.71
+30,2425,Dorotea Municipality,Västerbotten County,2769,2939.9,2764.92,174.98,0,1
+31,1730,Eda Municipality,Värmland County,8443,894.92,820.18,74.74,0,10.29
+32,125,Ekerö Municipality,Stockholm County,26282,383.61,217.68,0.61,0,120.74
+33,686,Eksjö Municipality,Jönköping County,16454,873.29,799.48,73.81,0,20.58
+34,862,Emmaboda Municipality,Kalmar County,8969,718.65,689.7,28.95,0,13
+35,381,Enköping Municipality,Uppsala County,40542,1323.82,1178.5,4.63,0,34.4
+36,484,Eskilstuna Municipality,Södermanland County,99745,1250.49,1099.87,18.59,0,90.69
+37,1285,Eslöv Municipality,Skåne County,31793,424.68,419.06,5.62,0,75.87
+38,1445,Essunga Municipality,Västra Götaland County,5529,235.71,234.61,1.1,0,23.57
+39,1982,Fagersta Municipality,Västmanland County,12831,310.41,269.04,41.37,0,47.69
+40,1382,Falkenberg Municipality,Halland County,41646,1825.72,1108.89,47.27,669.56,37.56
+41,1499,Falköping Municipality,Västra Götaland County,31923,1065.78,1044.98,20.8,0,30.55
+42,2080,Falun Municipality,Dalarna County,56763,2275.17,2040.13,235.04,0,27.82
+43,1782,Filipstad Municipality,Värmland County,10524,1711.71,1534.03,177.68,0,6.86
+44,562,Finspång Municipality,Östergötland County,20890,1215.05,1055.28,159.77,0,19.8
+45,482,Flen Municipality,Södermanland County,16068,826.04,718.83,107.21,0,22.35
+46,1763,Forshaga Municipality,Värmland County,11267,397.29,348.18,49.11,0,32.36
+47,1439,Färgelanda Municipality,Västra Götaland County,6545,618.33,588.98,29.35,0,11.11
+48,2026,Gagnef Municipality,Dalarna County,10052,812.32,767.15,45.17,0,13.1
+49,662,Gislaved Municipality,Jönköping County,28750,1220.72,1137.08,83.64,0,25.28
+50,461,Gnesta Municipality,Södermanland County,10450,538.14,461.24,76.9,0,22.66
+51,617,Gnosjö Municipality,Jönköping County,9390,450.05,420.58,29.47,0,22.33
+52,980,Gotland Municipality,Gotland County,57235,15241.07,3134.05,31.49,12075.53,18.26
+53,1764,Grums Municipality,Värmland County,8918,478.82,386.38,47.87,0,23.08
+54,1444,Grästorp Municipality,Västra Götaland County,5613,280.66,264.68,1.16,0,21.21
+55,1447,Gullspång Municipality,Västra Götaland County,5194,554.95,312.89,69.42,0,16.6
+56,2523,Gällivare Municipality,Norrbotten County,18380,16818.22,15705.15,1113.07,0,1.17
+57,2180,Gävle Municipality,Gävleborg County,96969,3199.84,1613.37,169.04,1417.43,60.1
+58,1480,Göteborg Municipality,Västra Götaland County,532247,1025.37,447.76,15.66,561.95,1188.69
+59,1471,Götene Municipality,Västra Götaland County,13054,620.74,404.54,0.94,0,32.27
+60,643,Habo Municipality,Jönköping County,10969,462.24,328.52,6.23,0,33.39
+61,1783,Hagfors Municipality,Värmland County,12117,2000.15,1824.17,175.98,0,6.64
+62,1861,Hallsberg Municipality,Örebro County,15265,670.22,636.71,33.51,0,23.97
+63,1961,Hallstahammar Municipality,Västmanland County,15473,181.26,170.7,1.61,0,90.64
+64,1380,Halmstad Municipality,Halland County,93886,1699.89,1014.13,16.73,669.03,92.58
+65,1761,Hammarö Municipality,Värmland County,15139,464.16,39.15,1.55,0,386.69
+66,136,Haninge Municipality,Stockholm County,80615,2160.87,458.07,5.99,1696.81,175.99
+67,2583,Haparanda Municipality,Norrbotten County,9890,1868.27,922.76,38.74,906.77,10.72
+68,331,Heby Municipality,Uppsala County,13451,1225.6,1166.81,58.79,0,11.53
+69,2083,Hedemora Municipality,Dalarna County,15004,928.77,835.1,93.67,0,17.97
+70,1283,Helsingborg Municipality,Skåne County,132706,423.97,344.01,1.35,78.61,385.76
+71,1466,Herrljunga Municipality,Västra Götaland County,9239,509.54,497.55,11.99,0,18.57
+72,1497,Hjo Municipality,Västra Götaland County,8833,584.47,297.04,5.09,0,29.74
+73,2104,Hofors Municipality,Gävleborg County,9527,445.71,409.94,35.77,0,23.24
+74,126,Huddinge Municipality,Stockholm County,102256,140.63,131.01,8.13,0,780.52
+75,2184,Hudiksvall Municipality,Gävleborg County,36857,4516.62,2488.89,255.69,1772.04,14.81
+76,860,Hultsfred Municipality,Kalmar County,13627,1187.01,1121.52,65.49,0,12.15
+77,1315,Hylte Municipality,Halland County,9993,1046.59,946.08,100.51,0,10.56
+78,305,Håbo Municipality,Uppsala County,19940,186.47,143.75,0.37,0,138.71
+79,1863,Hällefors Municipality,Örebro County,6981,1151.25,984.95,166.3,0,7.09
+80,2361,Härjedalen Municipality,Jämtland County,10252,11859.62,11286.1,573.52,0,0.91
+81,2280,Härnösand Municipality,Västernorrland County,24468,1938.58,1058.36,42.57,837.65,23.12
+82,1401,Härryda Municipality,Västra Götaland County,35636,291.09,266.78,24.31,0,133.58
+83,1293,Hässleholm Municipality,Skåne County,50187,1306.27,1268.53,37.74,0,39.56
+84,1284,Höganäs Municipality,Skåne County,25016,676.12,150.84,0.38,524.9,165.84
+85,821,Högsby Municipality,Kalmar County,5692,799.42,751.11,48.31,0,7.58
+86,1266,Hörby Municipality,Skåne County,14912,433.05,419.41,13.64,0,35.55
+87,1267,Höör Municipality,Skåne County,15671,320,290.85,29.15,0,53.88
+88,2510,Jokkmokk Municipality,Norrbotten County,5074,19334.44,17614.32,1720.12,0,0.29
+89,123,Järfälla Municipality,Stockholm County,69012,63.02,53.81,1.09,0,1282.51
+90,680,Jönköping Municipality,Jönköping County,130413,1925.02,1480.36,73.35,0,88.1
+91,2514,Kalix Municipality,Norrbotten County,16447,3712.06,1807.67,97.3,1807.09,9.1
+92,880,Kalmar Municipality,Kalmar County,63973,1250.96,956.9,3.77,290.29,66.85
+93,1446,Karlsborg Municipality,Västra Götaland County,6752,797.35,405.87,77.27,0,16.64
+94,1082,Karlshamn Municipality,Blekinge County,31227,832.42,488.68,19.91,323.83,63.9
+95,1883,Karlskoga Municipality,Örebro County,29766,510.38,468.23,42.15,0,63.57
+96,1080,Karlskrona Municipality,Blekinge County,64050,3338.05,1042.21,27.46,2268.38,61.46
+97,1780,Karlstad Municipality,Värmland County,87596,1517.74,1150.52,73.72,0,76.14
+98,483,Katrineholm Municipality,Södermanland County,32874,1189.54,1020.19,94.04,0,32.22
+99,1715,Kil Municipality,Värmland County,11826,406.87,359.73,47.14,0,32.87
+100,513,Kinda Municipality,Östergötland County,9812,1301.96,1129.47,172.49,0,8.69
+101,2584,Kiruna Municipality,Norrbotten County,23134,20551.42,19140.33,1411.09,0,1.21
+102,1276,Klippan Municipality,Skåne County,16725,379.41,374.32,5.09,0,44.68
+103,330,Knivsta Municipality,Uppsala County,15542,295.12,282.17,4.23,0,55.08
+104,2282,Kramfors Municipality,Västernorrland County,18389,2892.59,1694.76,90.32,1107.51,10.85
+105,1290,Kristianstad Municipality,Skåne County,80948,1818.24,1246.25,94.09,477.9,64.95
+106,1781,Kristinehamn Municipality,Värmland County,23928,1384.44,753.12,40.51,0,31.77
+107,2309,Krokom Municipality,Jämtland County,14604,6812.75,6155.18,657.57,0,2.37
+108,1881,Kumla Municipality,Örebro County,20806,205.8,204.18,1.62,0,101.9
+109,1384,Kungsbacka Municipality,Halland County,77211,1472.94,606.67,35.11,831.16,127.27
+110,1960,Kungsör Municipality,Västmanland County,8141,227.13,202.65,0.97,0,40.17
+111,1482,Kungälv Municipality,Västra Götaland County,42054,682.43,362.59,8.1,311.74,115.98
+112,1261,Kävlinge Municipality,Skåne County,29604,292.45,152.56,1.08,138.81,194.05
+113,1983,Köping Municipality,Västmanland County,25138,644.79,604.55,26.25,0,41.58
+114,1381,Laholm Municipality,Halland County,23471,963.38,882.96,19.16,61.26,26.58
+115,1282,Landskrona Municipality,Skåne County,42907,300.64,140.28,0.71,159.65,305.87
+116,1860,Laxå Municipality,Örebro County,5592,737.56,601.97,135.59,0,9.29
+117,1814,Lekeberg Municipality,Örebro County,7303,481.63,463.16,18.47,0,15.77
+118,2029,Leksand Municipality,Dalarna County,15152,1411.96,1221.23,190.73,0,12.41
+119,1441,Lerum Municipality,Västra Götaland County,39203,308.38,258.61,49.77,0,151.59
+120,761,Lessebo Municipality,Kronoberg County,8023,456.34,412.55,43.79,0,19.45
+121,186,Lidingö Municipality,Stockholm County,45034,51.05,30.8,0.32,19.93,1462.14
+122,1494,Lidköping Municipality,Västra Götaland County,38344,1372.61,695.61,2.5,0,55.12
+123,1462,Lilla Edet Municipality,Västra Götaland County,12766,342.37,316.23,26.14,0,40.37
+124,1885,Lindesberg Municipality,Örebro County,23114,1480.5,1377.59,102.91,0,16.78
+125,580,Linköping Municipality,Östergötland County,149906,1568.26,1427.44,140.82,0,105.02
+126,781,Ljungby Municipality,Kronoberg County,27324,1995.13,1747.9,247.23,0,15.63
+127,2161,Ljusdal Municipality,Gävleborg County,18856,5609.84,5256.7,353.14,0,3.59
+128,1864,Ljusnarsberg Municipality,Örebro County,4844,631.08,575.54,55.54,0,8.42
+129,1262,Lomma Municipality,Skåne County,22498,90.2,55.52,0.82,33.86,405.22
+130,2085,Ludvika Municipality,Dalarna County,25643,1647.81,1490.42,157.39,0,17.21
+131,2580,Luleå Municipality,Norrbotten County,75361,4953.75,2094.18,139.85,2719.72,35.99
+132,1281,Lund Municipality,Skåne County,114061,439.91,427.23,12.68,0,266.98
+133,2481,Lycksele Municipality,Västerbotten County,12292,5888.93,5518.49,370.44,0,2.23
+134,1484,Lysekil Municipality,Västra Götaland County,14397,695.41,208.45,0.84,486.12,69.07
+135,1280,Malmö Municipality,Skåne County,311540,332.64,156.87,1.52,174.25,1985.98
+136,2023,Malung-Sälen Municipality,Dalarna County,10051,4312.49,4085.06,227.43,0,2.46
+137,2418,Malå Municipality,Västerbotten County,3170,1727.48,1598.95,128.53,0,1.98
+138,1493,Mariestad Municipality,Västra Götaland County,23769,1503.22,601.18,13.23,0,39.54
+139,1463,Mark Municipality,Västra Götaland County,33689,1013.2,929.25,83.95,0,36.25
+140,767,Markaryd Municipality,Kronoberg County,9504,532.83,517.19,15.64,0,18.38
+141,1461,Mellerud Municipality,Västra Götaland County,8913,944.46,516.8,47.56,0,17.25
+142,586,Mjölby Municipality,Östergötland County,26309,557.12,546.04,11.08,0,48.18
+143,2062,Mora Municipality,Dalarna County,20011,3111.54,2812.56,298.98,0,7.11
+144,583,Motala Municipality,Östergötland County,42126,1267.23,983.49,68.57,0,42.83
+145,642,Mullsjö Municipality,Jönköping County,7013,211.03,200.16,10.87,0,35.04
+146,1430,Munkedal Municipality,Västra Götaland County,10220,675.01,634.01,33.65,7.35,16.12
+147,1762,Munkfors Municipality,Värmland County,3665,147.97,141.58,6.39,0,25.89
+148,1481,Mölndal Municipality,Västra Götaland County,61887,152.28,145.84,6.44,0,424.35
+149,861,Mönsterås Municipality,Kalmar County,12895,941.04,599.46,8.57,333.01,21.51
+150,840,Mörbylånga Municipality,Kalmar County,14299,3043.42,666.79,1.54,2375.09,21.44
+151,182,Nacka Municipality,Stockholm County,94215,128.83,95.12,4.5,29.21,990.49
+152,1884,Nora Municipality,Örebro County,10391,690.82,618.49,72.33,0,16.8
+153,1962,Norberg Municipality,Västmanland County,5589,447.67,417.8,29.87,0,13.38
+154,2132,Nordanstig Municipality,Gävleborg County,9515,2525.99,1370.64,84.52,1070.83,6.94
+155,2401,Nordmaling Municipality,Västerbotten County,7019,2472.26,1229.42,40.17,1202.67,5.71
+156,581,Norrköping Municipality,Östergötland County,133444,2047.58,1495.05,108.65,443.88,89.26
+157,188,Norrtälje Municipality,Stockholm County,56845,5869.67,2016.04,97.73,3755.9,28.2
+158,2417,Norsjö Municipality,Västerbotten County,4168,1923.58,1739.45,184.13,0,2.4
+159,881,Nybro Municipality,Kalmar County,19466,1201.54,1171.69,29.85,0,16.61
+160,140,Nykvarn Municipality,Stockholm County,9502,176.99,152.76,16.25,0,62.2
+161,480,Nyköping Municipality,Södermanland County,52835,2066.41,1420.84,133.42,512.15,37.19
+162,192,Nynäshamn Municipality,Stockholm County,26681,1300.83,358.76,6.71,935.36,74.37
+163,682,Nässjö Municipality,Jönköping County,29470,988.49,930.29,58.2,0,31.68
+164,2101,Ockelbo Municipality,Gävleborg County,5825,1129.04,1064.97,64.07,0,5.47
+165,1060,Olofström Municipality,Blekinge County,12906,413.43,389.79,23.64,0,33.11
+166,2034,Orsa Municipality,Dalarna County,6837,1797.39,1730.85,66.54,0,3.95
+167,1421,Orust Municipality,Västra Götaland County,15108,882.99,386.52,4.39,492.08,39.09
+168,1273,Osby Municipality,Skåne County,12692,599.84,576.24,23.6,0,22.03
+169,882,Oskarshamn Municipality,Kalmar County,26258,2282.72,1049.49,48.24,1184.99,25.02
+170,2121,Ovanåker Municipality,Gävleborg County,11392,2016.98,1873.31,143.67,0,6.08
+171,481,Oxelösund Municipality,Södermanland County,11371,746.54,35.39,0.15,711,321.31
+172,2521,Pajala Municipality,Norrbotten County,6300,8050.73,7840.19,210.54,0,0.8
+173,1402,Partille Municipality,Västra Götaland County,36097,58.98,56.83,2.15,0,635.18
+174,1275,Perstorp Municipality,Skåne County,7104,161.92,158.78,3.14,0,44.74
+175,2581,Piteå Municipality,Norrbotten County,41247,4680.52,3086.95,150.42,1443.15,13.36
+176,2303,Ragunda Municipality,Jämtland County,5456,2633.11,2511.14,121.97,0,2.17
+177,2409,Robertsfors Municipality,Västerbotten County,6734,2369.65,1292.21,21.04,1056.4,5.21
+178,1081,Ronneby Municipality,Blekinge County,27874,1241.85,825.34,36.5,380.01,33.77
+179,2031,Rättvik Municipality,Dalarna County,10778,2137.79,1920.66,217.13,0,5.61
+180,1981,Sala Municipality,Västmanland County,21766,1204.39,1166.85,37.54,0,18.65
+181,128,Salem Municipality,Stockholm County,16006,71.09,54.09,7.29,0,295.91
+182,2181,Sandviken Municipality,Gävleborg County,37179,1297.07,1166.4,130.67,0,31.88
+183,191,Sigtuna Municipality,Stockholm County,43116,349.74,327.4,4.22,0,131.69
+184,1291,Simrishamn Municipality,Skåne County,18900,1261.15,391.36,1.07,868.72,48.29
+185,1265,Sjöbo Municipality,Skåne County,18412,506.63,492.17,14.46,0,37.41
+186,1495,Skara Municipality,Västra Götaland County,18472,448.69,428.65,20.04,0,43.09
+187,2482,Skellefteå Municipality,Västerbotten County,71927,9955.58,6802.85,370.12,2782.61,10.57
+188,1904,Skinnskatteberg Municipality,Västmanland County,4406,718.18,659.43,58.75,0,6.68
+189,1264,Skurup Municipality,Skåne County,14997,510.96,193.58,1.59,315.79,77.47
+190,1496,Skövde Municipality,Västra Götaland County,52673,685.08,673.68,11.4,0,78.19
+191,2061,Smedjebacken Municipality,Dalarna County,10727,1057.81,947.92,109.89,0,11.32
+192,2283,Sollefteå Municipality,Västernorrland County,19576,5761.82,5397.82,364,0,3.63
+193,163,Sollentuna Municipality,Stockholm County,67846,57.98,52.64,3.21,2.13,1288.87
+194,184,Solna Municipality,Stockholm County,72495,21.66,19.3,1.18,0.65,3756.22
+195,2422,Sorsele Municipality,Västerbotten County,2620,7957.64,7368.44,589.2,0,0.36
+196,1427,Sotenäs Municipality,Västra Götaland County,8950,684.37,138.21,1.22,544.94,64.76
+197,1230,Staffanstorp Municipality,Skåne County,22615,107.28,106.82,0.46,0,211.71
+198,1415,Stenungsund Municipality,Västra Götaland County,24911,301.09,251.91,14.02,35.16,98.89
+199,180,Stockholm Municipality,Stockholm County,894165,214.63,187.17,4.95,6.79,4777.29
+200,1760,Storfors Municipality,Värmland County,4120,472.71,391.47,81.24,0,10.52
+201,2421,Storuman Municipality,Västerbotten County,5973,8234.1,7303.53,930.57,0,0.82
+202,486,Strängnäs Municipality,Södermanland County,33269,975.08,739.7,14.88,0,44.98
+203,1486,Strömstad Municipality,Västra Götaland County,12454,951.83,467.48,10.11,474.24,26.64
+204,2313,Strömsund Municipality,Jämtland County,11982,11780.57,10465.08,1315.49,0,1.14
+205,183,Sundbyberg Municipality,Stockholm County,42211,8.77,8.67,0.07,0,4868.63
+206,2281,Sundsvall Municipality,Västernorrland County,96977,4444.54,3189.61,262.61,992.32,30.4
+207,1766,Sunne Municipality,Värmland County,13046,1448.25,1288.11,160.14,0,10.13
+208,1907,Surahammar Municipality,Västmanland County,9823,368.85,343.81,25.04,0,28.57
+209,1214,Svalöv Municipality,Skåne County,13286,388.62,387.3,1.32,0,34.3
+210,1263,Svedala Municipality,Skåne County,20080,227.12,218.05,9.07,0,92.09
+211,1465,Svenljunga Municipality,Västra Götaland County,10279,987.15,919.76,67.39,0,11.18
+212,1785,Säffle Municipality,Värmland County,15288,2497.51,1259.81,97.41,0,12.14
+213,2082,Säter Municipality,Dalarna County,10929,624.51,570.33,54.18,0,19.16
+214,684,Sävsjö Municipality,Jönköping County,10953,729.23,679.05,50.18,0,16.13
+215,2182,Söderhamn Municipality,Gävleborg County,25425,2281.32,1060.77,111.04,1109.51,23.97
+216,582,Söderköping Municipality,Östergötland County,14195,1325.18,673.85,14.43,636.9,21.07
+217,181,Södertälje Municipality,Stockholm County,90677,694.24,525.15,32.6,84.01,172.67
+218,1083,Sölvesborg Municipality,Blekinge County,16807,1106.4,185.31,0.57,920.52,90.7
+219,1435,Tanum Municipality,Västra Götaland County,12287,2351.35,917.24,37.58,1396.53,13.4
+220,1472,Tibro Municipality,Västra Götaland County,10725,236.02,220.65,15.37,0,48.61
+221,1498,Tidaholm Municipality,Västra Götaland County,12578,522.95,518.06,4.89,0,24.28
+222,360,Tierp Municipality,Uppsala County,20172,2573.82,1547.78,56.89,969.15,13.03
+223,2262,Timrå Municipality,Västernorrland County,18067,1234.17,783.3,39.27,411.6,23.07
+224,763,Tingsryd Municipality,Kronoberg County,12146,1207.24,1044.88,162.36,0,11.62
+225,1419,Tjörn Municipality,Västra Götaland County,15047,845.94,167.36,0.8,677.78,89.91
+226,1270,Tomelilla Municipality,Skåne County,12900,397.39,395.94,1.45,0,32.58
+227,1737,Torsby Municipality,Värmland County,12037,4357.44,4162.19,195.25,0,2.89
+228,834,Torsås Municipality,Kalmar County,6867,605.23,468.41,1.53,135.29,14.66
+229,1452,Tranemo Municipality,Västra Götaland County,11566,778.48,741.27,37.21,0,15.6
+230,687,Tranås Municipality,Jönköping County,18185,437.74,402.66,35.08,0,45.16
+231,1287,Trelleborg Municipality,Skåne County,42774,1175.03,339.87,2.27,832.89,125.85
+232,1488,Trollhättan Municipality,Västra Götaland County,56393,427.72,409.88,17.84,0,137.58
+233,488,Trosa Municipality,Södermanland County,11619,664.76,209.73,7.77,447.26,55.4
+234,138,Tyresö Municipality,Stockholm County,44057,100.53,69.25,3.38,27.9,636.2
+235,160,Täby Municipality,Stockholm County,66161,71.22,60.72,5.31,5.19,1089.61
+236,1473,Töreboda Municipality,Västra Götaland County,8972,590.32,539.85,50.47,0,16.62
+237,1485,Uddevalla Municipality,Västra Götaland County,52886,733.03,637.69,12.6,82.74,82.93
+238,1491,Ulricehamn Municipality,Västra Götaland County,23127,1116.71,1046.02,70.69,0,22.11
+239,2480,Umeå Municipality,Västerbotten County,118034,5214.16,2316.61,80.13,2817.42,50.95
+240,114,Upplands Väsby Municipality,Stockholm County,41380,83.81,75.09,4.77,0,551.07
+241,139,Upplands-Bro Municipality,Stockholm County,24569,325.23,235.47,4.81,0,104.34
+242,380,Uppsala Municipality,Uppsala County,204639,2234.47,2182.8,40.63,0,93.75
+243,760,Uppvidinge Municipality,Kronoberg County,9226,1226.66,1171.88,54.78,0,7.87
+244,584,Vadstena Municipality,Östergötland County,7367,413.33,181.91,26.24,0,40.5
+245,665,Vaggeryd Municipality,Jönköping County,13193,858.15,824.94,33.21,0,15.99
+246,563,Valdemarsvik Municipality,Östergötland County,7604,2049.56,733.82,43.26,1272.48,10.36
+247,115,Vallentuna Municipality,Stockholm County,31523,368.97,358.36,10.61,0,87.96
+248,2021,Vansbro Municipality,Dalarna County,6735,1657.35,1539.57,117.78,0,4.37
+249,1470,Vara Municipality,Västra Götaland County,15637,700.44,696.93,3.69,0,22.44
+250,1383,Varberg Municipality,Halland County,59779,1703.35,868.71,40.83,793.81,68.81
+251,187,Vaxholm Municipality,Stockholm County,11196,107.07,57.88,0.69,48.5,193.43
+252,1233,Vellinge Municipality,Skåne County,33806,705.46,142.61,1.08,561.77,237.05
+253,685,Vetlanda Municipality,Jönköping County,26362,1600.43,1500.51,99.92,0,17.57
+254,2462,Vilhelmina Municipality,Västerbotten County,6924,8740.5,8047.87,692.63,0,0.86
+255,884,Vimmerby Municipality,Kalmar County,15315,1219.8,1140.23,79.57,0,13.43
+256,2404,Vindeln Municipality,Västerbotten County,5330,2846.11,2629.37,216.74,0,2.03
+257,428,Vingåker Municipality,Södermanland County,8818,439.44,370.27,41.55,0,23.82
+258,1442,Vårgårda Municipality,Västra Götaland County,11066,441.22,426.6,14.62,0,25.94
+259,1487,Vänersborg Municipality,Västra Götaland County,37240,898.83,642.7,23,0,57.94
+260,2460,Vännäs Municipality,Västerbotten County,8578,553.7,529.49,24.21,0,16.2
+261,120,Värmdö Municipality,Stockholm County,39757,2980.11,448.03,7.67,2524.41,88.74
+262,683,Värnamo Municipality,Jönköping County,33057,1382.44,1216,166.44,0,27.19
+263,883,Västervik Municipality,Kalmar County,35814,3591.48,1871.56,152.23,1567.69,19.14
+264,1980,Västerås Municipality,Västmanland County,141845,1136.71,957.89,4.09,0,148.08
+265,780,Växjö Municipality,Kronoberg County,85635,1914.25,1665.51,248.74,0,51.42
+266,512,Ydre Municipality,Östergötland County,3590,778.62,675.42,103.2,0,5.32
+267,1286,Ystad Municipality,Skåne County,28593,1189.32,350.08,5.02,834.22,81.68
+268,1492,Åmål Municipality,Västra Götaland County,12203,889.71,481.12,52.38,0,25.36
+269,2260,Ånge Municipality,Västernorrland County,9582,3295.56,3051.36,244.2,0,3.14
+270,2321,Åre Municipality,Jämtland County,10378,8236.54,7199.45,1037.09,0,1.44
+271,1765,Årjäng Municipality,Värmland County,9870,1653.04,1409.47,243.57,0,7
+272,2463,Åsele Municipality,Västerbotten County,2887,4543.95,4223.79,320.16,0,0.68
+273,1277,Åstorp Municipality,Skåne County,14896,92.47,92.22,0.25,0,161.53
+274,561,Åtvidaberg Municipality,Östergötland County,11456,780.27,686.62,93.65,0,16.68
+275,765,Älmhult Municipality,Kronoberg County,15759,978.22,890.78,87.44,0,17.69
+276,2039,Älvdalen Municipality,Dalarna County,7086,7142.83,6871.51,271.32,0,1.03
+277,319,Älvkarleby Municipality,Uppsala County,9161,614.13,214.98,19.83,379.32,42.61
+278,2560,Älvsbyn Municipality,Norrbotten County,8182,1795.24,1698.04,97.2,0,4.82
+279,1292,Ängelholm Municipality,Skåne County,39821,478.06,420.06,11.23,46.77,94.8
+280,1407,Öckerö Municipality,Västra Götaland County,12559,511.4,25.74,0.12,485.54,487.92
+281,509,Ödeshög Municipality,Östergötland County,5192,668.99,430.42,19.84,0,12.06
+282,1880,Örebro Municipality,Örebro County,140295,1620.6,1373.15,50.59,0,102.17
+283,1257,Örkelljunga Municipality,Skåne County,9658,329.7,319.55,10.15,0,30.22
+284,2284,Örnsköldsvik Municipality,Västernorrland County,54993,8428.78,6376.46,362.42,1689.9,8.62
+285,2380,Östersund Municipality,Jämtland County,59727,2501.08,2208.31,292.77,0,27.05
+286,117,Österåker Municipality,Stockholm County,40414,554.46,312.4,10.68,231.38,129.37
+287,382,Östhammar Municipality,Uppsala County,21346,3486.4,1475.28,27.54,1983.58,14.47
+288,1256,Östra Göinge Municipality,Skåne County,13632,451.15,431.96,19.19,0,31.56
+289,2513,Överkalix Municipality,Norrbotten County,3450,2919.47,2764.53,154.94,0,1.25
+290,2518,Övertorneå Municipality,Norrbotten County,4726,2492.29,2362.07,130.22,0,2
