@@ -14,10 +14,10 @@ Since I was little, I have always had a passion for technology and I was curious
 Interested in stats, data science and visualization.
 
 ### I am also into
-* space exploration and astronomy 🔭
-* reading 📖
-* running
-* bike touring :bike:
+* 🔭 space exploration and astronomy 
+* 📖 reading 
+* 🏃🏻 running
+* 🚴🏻 bike touring 
 
 💼 I am looking for a data science internship in 2023.
 
