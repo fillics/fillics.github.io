@@ -6,7 +6,7 @@ main:
   #  url: /portfolio/
   - title: "cv"
     url: /cv/
-  - title: "eit"
+  - title: "EIT student"
     url: /eit/
   # - title: "EIT student life"
    # url: /eitstudent/

@@ -5,6 +5,7 @@ share: false
 comments: false
 ---
 
+## About me
 I am a MSc student in **Data Science**, enrolled in [EIT Digital Master School Double Degree Program](https://masterschool.eitdigital.eu/data-science): 
 * first year: **Politecnico di Milano** (_Milan, Italy_) 
 * second year (now): **KTH** (_Stockholm, Sweden_)
@@ -18,6 +19,7 @@ Interested in stats, data science and visualization.
 * 📖 reading 
 * 🏃🏻 running
 * 🚴🏻 bike touring 
+* 🎶 listening to music
 
 💼 I am looking for a Data Science internship in 2023.
 
@@ -30,3 +32,5 @@ Interested in stats, data science and visualization.
 * PC Configuration Telegram Bot in Python: created a Telegram bot for a client who contacted me on [Fiverr](https://www.fiverr.com), a freelance services marketplace. The bot helps people to configure a PC with all required components. 
 * [TelCo WebApp](https://github.com/fillics/DB2_Project_BagnoliCalio) in Java/MySQL/HTML: coded a website that simulates a telecommunication company that creates packages to sell to customers.
 * [Artificial Neural Network and Deep Learning Project](https://github.com/fillics/ANNDP_challenges) in Python, Keras, Numpy, Pandas, Tensorflow: coded an algorithm that predicates future samples of a multivariate time series and developed a Neural Network able to correctly classify leaves images.
+
+
