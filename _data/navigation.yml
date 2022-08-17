@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "blog"
-    url: /blog/
+  # - title: "blog"
+  #  url: /blog/
   - title: "projects gallery"
     url: /gallery/
   - title: "cv"
     url: /cv/
-  - title: "EIT student life"
-    url: /eitstudent/
+  # - title: "EIT student life"
+   # url: /eitstudent/
