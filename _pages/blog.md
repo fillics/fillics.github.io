@@ -1,6 +1,6 @@
 ---
 permalink: blog/
-share: true
+share: false
 comments: false
 layout: posts
 title: all posts

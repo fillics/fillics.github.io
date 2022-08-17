@@ -1,6 +1,6 @@
 ---
 permalink: eitstudent/
-share: true
+share: false
 comments: false
 layout: posts
 title: all posts
