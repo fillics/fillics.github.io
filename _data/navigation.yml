@@ -6,3 +6,5 @@ main:
     url: /gallery/
   - title: "cv"
     url: /cv/
+  - title: "EIT student life"
+    url: /eitstudent/

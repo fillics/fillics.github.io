@@ -5,7 +5,7 @@ share: false
 comments: false
 ---
 
-I am a MSc student in Data Science, enrolled in [EIT Digital Master School Double Degree Program](https://masterschool.eitdigital.eu/data-science): 
+I am a MSc student in **Data Science**, enrolled in [EIT Digital Master School Double Degree Program](https://masterschool.eitdigital.eu/data-science): 
 * first year: **Politecnico di Milano** (_Milan, Italy_) 
 * second year (now): **KTH** (_Stockolm, Sweden_)
 
@@ -16,7 +16,11 @@ Interested in stats, data science and visualization.
 [:panda_face:](/pandas/)
 
 ### I am also into
-* space exploration and astronomy
+* space exploration and astronomy 🔭
 * reading 📖
 * running
-* bike  touring :bike:
+* bike touring :bike:
+
+💼 I am looking for an internship in 2023
+
+>Ideas are worthless. Execution plus idea is everything.
