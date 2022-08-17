@@ -1,7 +1,7 @@
 ---
 permalink: /eit/
 title: "Student Handbook"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "The EIT Digital Master School, narrated by a student."
 share: false
 comments: false
 ---
@@ -11,7 +11,7 @@ EIT selects the best European students, who can access this double master's degr
 - Second year in KTH Royal Institute of Technology, Stockholm (Sweden)
 
 # Entry University (Politecnico di Milano 🇮🇹)
-
+I have chosen Politecnico di Milano as the Entry University.
 ## University
 
 ## City
