@@ -12,11 +12,11 @@ minimal_mistakes_skin    : "dark" # "default", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "home"
 title_separator          : "-"
-name                     : "Federico M Barabas"
-description              : "Federico M Barabas personal website."
-url                      : "https://fedebarabas.github.io"
+name                     : "Filippo Caliò"
+description              : "Filippo Caliò personal website."
+url                      : "https://fillics.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "fedebarabas/fedebarabas.github.io"
+repository               : "fillics/fillics.github.io"
 teaser                   : "/assets/images/face.jpg"
 masthead_title           : "home"
 # breadcrumbs            : false # true, false (default)
@@ -64,7 +64,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "FedeBarabas"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -86,11 +86,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Federico M Barabas"
+  name             : "Filippo Caliò"
   avatar           : "/assets/images/face.jpg"
-  bio              : "data scientist"
+  bio              : "Data Science Student"
   location         : "Stockholm, Sweden"
-  email            : "fede.barabas@gmail.com"
+  email            : "filippo.calio@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -99,21 +99,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fedebarabas"
+  github           : "fillics"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "fbarabas"
+  linkedin         : "https://www.linkedin.com/in/filippo-calio/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "2834480/federico"
-  googlescholar    : "Xq4FPRAAAAAJ&hl=en"
-  spotify          : "fedebarabas"
+  stackoverflow    :
+  googlescholar    :
+  spotify          : "https://open.spotify.com/user/a7zp7th73arbn12vfcicjrj9u?si=84e8c58ddfee4a11"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "BarabasFederico"
+  twitter          :
   vine             :
   weibo            :
   xing             :
