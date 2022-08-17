@@ -29,4 +29,4 @@ Interested in stats, data science and visualization.
 * [Videogame](https://github.com/fillics/ingswAM2021-calio-bartolozzi-caleffi) in Java: designed, developed in a group of three and tested (with JUnit) an online videogame inspired by the physical boardgame “Master of Renaissance”. 
 * PC Configuration Telegram Bot in Python: created a Telegram bot for a client who contacted me on [Fiverr](https://www.fiverr.com), a freelance services marketplace. The bot helps people to configure a PC with all required components. 
 * [TelCo WebApp](https://github.com/fillics/DB2_Project_BagnoliCalio) in Java/MySQL/HTML: coded a website that simulates a telecommunication company that creates packages to sell to customers.
-
+* [Artificial Neural Network and Deep Learning Project](https://github.com/fillics/ANNDP_challenges) in Python, Keras, Numpy, Pandas, Tensorflow: coded an algorithm that predicates future samples of a multivariate time series and developed a Neural Network able to correctly classify leaves images.
