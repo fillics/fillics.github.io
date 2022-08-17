@@ -19,6 +19,14 @@ Interested in stats, data science and visualization.
 * 🏃🏻 running
 * 🚴🏻 bike touring 
 
-💼 I am looking for a data science internship in 2023.
+💼 I am looking for a Data Science internship in 2023.
 
 >Ideas are worthless. Execution plus idea is everything.
+
+## Projects
+* [Text Editor](https://github.com/fillics/API-Project2020) in C: designed, coded and tested a line text editor (like ed) with some functions, such as delete, print, change, undo and redo. 
+* [Histogram Equalization Machine](https://github.com/fillics/Histogram-Equalization-Machine) in VHDL: coded a hardware component that uses an equalization algorithm to recalibrate the contrast of an image. 
+* [Videogame](https://github.com/fillics/ingswAM2021-calio-bartolozzi-caleffi) in Java: designed, developed in a group of three and tested (with JUnit) an online videogame inspired by the physical boardgame “Master of Renaissance”. 
+* PC Configuration Telegram Bot in Python: created a Telegram bot for a client who contacted me on [Fiverr](https://www.fiverr.com), a freelance services marketplace. The bot helps people to configure a PC with all required components. 
+* [TelCo WebApp](https://github.com/fillics/DB2_Project_BagnoliCalio) in Java/MySQL/HTML: coded a website that simulates a telecommunication company that creates packages to sell to customers.
+
