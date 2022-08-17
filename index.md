@@ -5,9 +5,11 @@ share: false
 comments: false
 ---
 
-Currently exploiting the possibilities of large scale data analysis for research of women's health at [Natural Cycles](https://www.naturalcycles.com/), Stockholm.
+I am a MSc student in Data Science, enrolled in [EIT Digital Master School Double Degree Program](https://masterschool.eitdigital.eu/data-science): 
+* first year: **Politecnico di Milano** (_Milan, Italy_) 
+* second year (now): **KTH** (_Stockolm, Sweden_)
 
-During my academic career as an experimental physicist, I worked in areas such as [cosmic particle physics](https://www.auger.org/) and [next-generation biological microscopes](http://testalab.org/). I made the jump to the data science world in 2018.
+Since I was little, I have always had a passion for technology and I was curious and fascinated by the world of computers and the Internet. I am also highly motivated, determined and polite with good planning and time management skills.
 
 Interested in stats, data science and visualization.
 
@@ -15,6 +17,6 @@ Interested in stats, data science and visualization.
 
 ### I am also into
 * space exploration and astronomy
-* reading
+* reading 📖
 * running
 * bike  touring :bike:
