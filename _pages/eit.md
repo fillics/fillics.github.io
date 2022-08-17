@@ -1,6 +1,6 @@
 ---
 permalink: /eit/
-title: "Student Handbook"
+title: "EIT Student experience"
 excerpt: "The EIT Digital Master School, narrated by a student."
 share: false
 comments: false
