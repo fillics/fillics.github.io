@@ -5,7 +5,7 @@ share: false
 comments: false
 ---
 
-I am a MSc student in **Data Science**, enrolled in [EIT Digital Master School Double Degree Program](https://masterschool.eitdigital.eu/data-science): 
+I am a MSc student in **Data Science**, enrolled in [EIT Digital Master School Double Degree Program](https://masterschool.eitdigital.eu): 
 * first year: **Politecnico di Milano** (_Milan, Italy_) 
 * second year (now): **KTH** (_Stockholm, Sweden_)
 
