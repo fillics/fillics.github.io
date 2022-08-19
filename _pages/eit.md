@@ -6,9 +6,16 @@ share: false
 comments: false
 ---
 
-# The EIT Digital Master School, narrated by a student. 👨🏻‍🎓
-I graduated in Computer Science at Politecnico di Milano in July 2022, after almost three years really intense and tough. <br />
+I have always liked to keep track of everything I did, such as trips, experiences, and everyday life. I almost wrote every kind of thing happened to me in the last years
+in order to remember them better and to fix some important moments. <br />
+I have decided to do the same thing for my university life as well because I think it might be useful to someone who chooses the same path as me. <br />
 
+## The EIT Digital Master School, narrated by a student. 👨🏻‍🎓
+I graduated in Computer Science at Politecnico di Milano in July 2022, after almost three really hard and intense years, full of satisfaction, but also crisis <br />
+
+![png](/images/polimi.jpeg)
+
+<br />
 At the beginning of the last year of the Bachelor, I did not really know what to do after the graduation. All of my friends
 wanted to continue to study Computer Science (Master School) at Politecnico di Milano. It seemed to me the only option, until
 a friend of mine told me about EIT Digital and the possibility of attending a **Double Degree Program**. <br />
@@ -34,7 +41,7 @@ I have always been fascinated by data and stats, so I have chosen to apply for [
 ## City
 
 ### Courses
-* Data Bases 2 (5cfu)
+* Data Bases 2 (5cfu) <br />
   (Projectt)[https://github.com/fillics/DB2_Project_BagnoliCalio]
 
 * Software Engineering 2 (5cfu)
@@ -43,9 +50,11 @@ I have always been fascinated by data and stats, so I have chosen to apply for [
 
 * Recommender Systems (5cfu)
 
-* Uncertainty in AI (5cfu)
+* Uncertainty in AI (5cfu) <br />
+
+  [Summary]({{ "https://polimidatascientists.it/assets/docs/UAI_PMDS.pdf" | relative_url }}){: .btn .btn--success .btn--large}
   [Summary](https://polimidatascientists.it/assets/docs/UAI_PMDS.pdf)
-* Artificial Neural Networks and Deep Learning (5cfu)
+* Artificial Neural Networks and Deep Learning (5cfu) <br />
   [Projects](https://github.com/fillics/ANNDP_challenges)
 
 * Machine Learning (6cfu)
