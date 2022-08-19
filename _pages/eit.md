@@ -10,20 +10,20 @@ comments: false
 1. [Introduction](#introduction)
 2. [The EIT Digital Master School, narrated by a student](#eitdigital)
    1. [What is EIT?](#whatiseit)
-   2. [Entry University](#whatiseit)
-   3. [Summer School](#whatiseit)
-   4. [Exit University](#whatiseit)
+   2. [Entry University](#entry-university)
+   3. [Summer School](#summer-school)
+   4. [Exit University](#exit-university)
 3. [Stage](#stage)
 
 
-## Introduction <a name="introduction"></a>
+## 1. Introduction <a name="introduction"></a>
 I have always liked to keep track of everything I did, such as trips, experiences, and everyday life. I almost wrote every kind of thing happened to me in the last years
 in order to remember them better and to fix some important moments. <br />
 I have decided to do the same thing for my university life as well because I think it might be useful to someone who chooses the same path as me. <br />
 
-# The EIT Digital Master School, narrated by a student 👨🏻‍🎓 <a name="eitdigital"></a>
-I graduated in Computer Science at Politecnico di Milano in _July 2022_, after almost three really hard and intense years, full of satisfaction, but also crisis. <br />
+# 2. The EIT Digital Master School, narrated by a student 👨🏻‍🎓 <a name="eitdigital"></a>
 <img src="/images/polimi.jpeg" alt="png" style="float: right;" width="200"/>
+I graduated in Computer Science at Politecnico di Milano in _July 2022_, after almost three really hard and intense years, full of satisfaction, but also crisis. <br />
 
 
 ![png](/images/polimi.jpeg)
@@ -49,16 +49,16 @@ They have different programmes: **Data Science**, **CyberSecurity**, **Fintech**
 
 I have always been fascinated by data and stats, so I have chosen to apply for [Data Science](https://masterschool.eitdigital.eu/data-science).
 
-- First year in Politecnico di Milano, Milan (Italy)
-- Second year in KTH Royal Institute of Technology, Stockholm (Sweden)
+- First year in Politecnico di Milano, Milan (Italy) 🇮🇹
+- Second year in KTH Royal Institute of Technology, Stockholm (Sweden) 🇸🇪
 
-# Entry University (Politecnico di Milano 🇮🇹)
+# Entry University <a name="entry-university"></a>
 
 ## University
 
-## City
 
-### Courses
+## Courses
+### First Semester
 * Data Bases 2 (5cfu) <br />
   [Project](https://github.com/fillics/DB2_Project_BagnoliCalio)
 
@@ -75,23 +75,26 @@ I have always been fascinated by data and stats, so I have chosen to apply for [
 * Artificial Neural Networks and Deep Learning (5cfu) <br />
   [Projects](https://github.com/fillics/ANNDP_challenges)
 
+### Second Semester
 * Machine Learning (6cfu)
 * Digital Business LAB (10cfu)
 * Computing Infrastructures (5cfu)
 
-# Summer School (Budapest 🇭🇺)
+## City
+
+# Summer School (Budapest 🇭🇺) <a name="summer-school"></a>
 
 [website](https://summerschool.eitdigital.eu)
 
-# Exit University (KTH 🇸🇪)
+# Exit University <a name="exit-university"></a>
 
 ### Courses
 
-### Accomodation
+### Accommodation
 
 
 
-# Stage <a name="stage"></a>
+# 3. Stage <a name="stage"></a>
 
 
 [Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
